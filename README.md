@@ -1,1 +1,1 @@
-### A React + Typescript template
+### A React + Javascript template
